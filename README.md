@@ -13,9 +13,6 @@
     <img src="https://cdn-images-1.medium.com/max/1200/1*Mpr9-8NiWH3QysYsjvVlLw.png" alt="Logo">
 
 
-  <h3 align="center">Trailhead</h3>
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -71,15 +68,15 @@ See the [open issues](https://github.com/arthurmiranda/Trailhead/issues) for a l
 Arthur Miranda - [@linkedin](https://www.linkedin.com/in/arthurmiranda/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/arthurmiranda/Trailhead.svg?style=for-the-badge
-[contributors-url]: https://github.com/arthurmiranda/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/arthurmiranda/Trailhead.svg?style=for-the-badge
-[forks-url]: https://github.com/arthurmiranda/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/arthurmiranda/Trailhead.svg?style=for-the-badge
-[stars-url]: https://github.com/arthurmiranda/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/arthurmiranda/Trailhead.svg?style=for-the-badge
-[issues-url]: https://github.com/arthurmiranda/repo/issues
-[license-shield]: https://img.shields.io/github/license/arthurmiranda/Trailhead.svg?style=for-the-badge
-[license-url]: https://github.com/arthurmiranda/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/arthurhsmiranda/Trailhead.svg?style=for-the-badge
+[contributors-url]: https://github.com/arthurhsmiranda/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/arthurhsmiranda/Trailhead.svg?style=for-the-badge
+[forks-url]: https://github.com/arthurhsmiranda/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/arthurhsmiranda/Trailhead.svg?style=for-the-badge
+[stars-url]: https://github.com/arthurhsmiranda/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/arthurhsmiranda/Trailhead.svg?style=for-the-badge
+[issues-url]: https://github.com/arthurhsmiranda/repo/issues
+[license-shield]: https://img.shields.io/github/license/arthurhsmiranda/Trailhead.svg?style=for-the-badge
+[license-url]: https://github.com/arthurhsmiranda/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/arthurmiranda
