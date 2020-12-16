@@ -1,18 +1,85 @@
-# Salesforce DX Project: Next Steps
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
-## How Do You Plan to Deploy Your Changes?
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+    <img src="https://cdn-images-1.medium.com/max/1200/1*Mpr9-8NiWH3QysYsjvVlLw.png" alt="Logo">
 
-## Configure Your Salesforce DX Project
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+  <h3 align="center">Trailhead</h3>
 
-## Read All About It
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This repository is for the Trailhead tasks.
+
+
+### Built With
+
+* [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
+* [JavaScript](https://www.javascript.com/)
+* [LWC](https://developer.salesforce.com/docs/component-library/documentation/en/lwc)
+* [Aura](https://developer.salesforce.com/docs/component-library/bundle/aura:component)
+
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/arthurmiranda/Trailhead.git
+   ```
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/arthurmiranda/Trailhead/issues) for a list of proposed features (and known issues).
+
+<!-- CONTACT -->
+## Contact
+
+Arthur Miranda - [@linkedin](https://www.linkedin.com/in/arthurmiranda/)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/arthurmiranda/Trailhead.svg?style=for-the-badge
+[contributors-url]: https://github.com/arthurmiranda/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/arthurmiranda/Trailhead.svg?style=for-the-badge
+[forks-url]: https://github.com/arthurmiranda/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/arthurmiranda/Trailhead.svg?style=for-the-badge
+[stars-url]: https://github.com/arthurmiranda/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/arthurmiranda/Trailhead.svg?style=for-the-badge
+[issues-url]: https://github.com/arthurmiranda/repo/issues
+[license-shield]: https://img.shields.io/github/license/arthurmiranda/Trailhead.svg?style=for-the-badge
+[license-url]: https://github.com/arthurmiranda/repo/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/arthurmiranda
